@@ -34,3 +34,11 @@ function actualizarLista() {
         lista.appendChild(item);
     });
 }
+
+// Función para realizar el sorteo
+function sortearAmigo() {
+    // Validar que haya al menos un amigo en la lista
+    if (amigos.length === 0) {
+        alert("Debe agregar al menos un nombre antes de sortear.");
+        return;
+    }
