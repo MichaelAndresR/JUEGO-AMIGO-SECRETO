@@ -1,4 +1,4 @@
-<h1>🎁APLICACIÒN AMIGO SECRETO</h1>
+<h1>🎁APLICACIÒN AMIGO SECRETO</h1><br><br>
 
 <h2>📝 Descripción del Proyecto</h2><br>
 Una aplicación web interactiva que permite a los usuarios ingresar nombres de amigos y realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".<br><br>
@@ -23,6 +23,7 @@ Una aplicación web interactiva que permite a los usuarios ingresar nombres de a
 ✅ Diseño atractivo: Estilos modernos y responsivos con CSS.<br>
 
 🎥 Demostración de Funciones y Aplicaciones
+<img src="img/captura-de-pantalla.png" alt="Captura de Pantalla" width="30">
 
 🖥️ Vista de la Aplicación
 
