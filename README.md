@@ -1,1 +1,1 @@
-![Regalo](img/regalo.png)APLICACIÒN AMIGO SECRETO
+<img src="img/regalo.png" alt="Regalo" width="30">APLICACIÒN AMIGO SECRETO
